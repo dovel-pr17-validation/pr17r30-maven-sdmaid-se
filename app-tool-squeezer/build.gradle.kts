@@ -79,5 +79,5 @@ dependencies {
     addTesting()
     testImplementation(project(":app-common-test"))
     testImplementation("androidx.test.ext:junit:1.3.0")
-    testImplementation("androidx.room:room-testing:2.8.4")
+    testImplementation("androidx.room:room-testing:2.8.5")
 }
