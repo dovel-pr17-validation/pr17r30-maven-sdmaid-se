@@ -238,8 +238,8 @@ dependencies {
     addSerialization()
     addRetrofit()
 
-    "gplayImplementation"("com.android.billingclient:billing:8.3.0")
-    "gplayImplementation"("com.android.billingclient:billing-ktx:8.3.0")
+    "gplayImplementation"("com.android.billingclient:billing:9.1.0")
+    "gplayImplementation"("com.android.billingclient:billing-ktx:9.1.0")
 
     "gplayImplementation"("com.google.android.play:review:2.0.2")
     "gplayImplementation"("com.google.android.play:review-ktx:2.0.2")
